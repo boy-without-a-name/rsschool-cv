@@ -4,5 +4,5 @@
 4. I haven`t any skills in programming
 5. I haven`t code examples
 6. I haven`t Experience.
-7. I was finishing Belarussian State Technological University and getting specialization engeenier of automatization.
-# 8. I don`t speak english.
+7. I was finishing Belarussian State Technological University and getting specialization engeenier of automatization
+# 8. I don`t speak english
