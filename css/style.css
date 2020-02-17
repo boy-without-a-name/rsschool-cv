@@ -1,1 +1,26 @@
 
+#wrapper{
+	margin:300px 200px 300px 200px;
+	background-color: #c1f5f5;
+	max-width:1000px;
+	min-width:650px;
+	max-hight:1000px;
+}
+#image{
+	float:right;
+	
+}
+ol li{
+	color:black;
+	font:380 16px Verdana;
+	text-align: left;
+	list-style-position: inside;
+	
+}
+
+
+a{
+	color:black;
+}
+
+
